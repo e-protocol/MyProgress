@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "E:/Projects/Programming/QtProjects/MyProgress/Release/MyProgress_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Projects/Programming/QtProjects/MyProgress/Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Projects/Programming/QtProjects/MyProgress/Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Projects/Programming/QtProjects/MyProgress/MyProgress",
+	"CMAKE_SOURCE_DIR" : "E:/Projects/Programming/QtProjects/MyProgress/MyProgress",
+	"INCLUDE_DIR" : "E:/Projects/Programming/QtProjects/MyProgress/Release/MyProgress_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Projects/Programming/QtProjects/MyProgress/MyProgress/src/resources/images/progImg.png",
+		"E:/Projects/Programming/QtProjects/MyProgress/MyProgress/src/resources/images/logo.png",
+		"E:/Projects/Programming/QtProjects/MyProgress/MyProgress/src/resources/images/checked.png",
+		"E:/Projects/Programming/QtProjects/MyProgress/MyProgress/src/resources/images/background.jpg",
+		"E:/Projects/Programming/QtProjects/MyProgress/MyProgress/src/resources/images/unchecked.png"
+	],
+	"LOCK_FILE" : "E:/Projects/Programming/QtProjects/MyProgress/Release/CMakeFiles/MyProgress_autogen.dir/AutoRcc_images_F4FAE6NH3Q_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "images" ],
+	"OUTPUT_CHECKSUM" : "F4FAE6NH3Q",
+	"OUTPUT_NAME" : "qrc_images.cpp",
+	"RCC_EXECUTABLE" : "D:/Programms/Qt/5.15.2/mingw81_32/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Projects/Programming/QtProjects/MyProgress/Release/CMakeFiles/MyProgress_autogen.dir/AutoRcc_images_F4FAE6NH3Q_Used.txt",
+	"SOURCE" : "E:/Projects/Programming/QtProjects/MyProgress/MyProgress/src/resources/images.qrc",
+	"VERBOSITY" : 0
+}

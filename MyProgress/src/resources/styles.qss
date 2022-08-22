@@ -1,0 +1,156 @@
+
+QMainWindow
+{
+    border-image: url(:/images/background.jpg);
+}
+
+/* Header
+ * ---------------------------------------------------------------------*/
+
+QPushButton#menuBtn
+{
+    background-color: transparent;
+    color: white;
+    font: 40px "Arial";
+}
+
+QPushButton::hover#menuBtn
+{
+    color: rgb(0, 98, 255);
+}
+
+QPushButton::pressed#menuBtn
+{
+    color: rgb(0, 98, 255);
+    font: 35px "Arial";
+}
+
+QPushButton#menuBtnAbout
+{
+    background-color: transparent;
+    color: white;
+    font: 30px "Arial";
+}
+
+QPushButton::hover#menuBtnAbout
+{
+    color: rgb(0, 98, 255);
+}
+
+QPushButton::pressed#menuBtnAbout
+{
+    color: rgb(0, 98, 255);
+    font: 25px "Arial";
+}
+
+
+/* Body
+ * ---------------------------------------------------------------------*/
+
+QLabel#titleDirLabel
+{
+    border: 1 px solid black;
+    background-color: rgba(0, 0, 0, 200);
+    color: white;
+    font: 20px "Arial";
+    border-radius: 5px;
+}
+
+QLabel#dirTitle
+{
+    border: 1 px solid black;
+    background-color: transparent;
+    color: white;
+    font: 25px "Arial";
+    border-radius: 5px;
+}
+
+QWidget#contentWidget
+{
+    background-color: rgba(0, 0, 0, 200);
+}
+
+QWidget#sliderWidget, QScrollArea
+{
+    background-color: transparent;
+}
+
+QLabel#progLevelLabel
+{
+    font: 25px "Arial";
+    color: white;
+}
+
+QLabel#dataLabel, QTextEdit, QLineEdit
+{
+    background-color: transparent;
+    font: 16px "Arial";
+    color: white;
+}
+
+QPushButton#btnContent
+{
+    background-color: transparent;
+    color: white;
+    font: 25px "Arial";
+}
+
+QPushButton::hover#btnContent
+{
+    color: rgb(0, 98, 255);
+}
+
+QPushButton::pressed#btnContent
+{
+    color: rgb(0, 98, 255);
+    font: 20px "Arial";
+}
+
+QProgressBar::chunk
+{
+    background-color: rgba(0, 98, 255, 200);
+    width: 1px;
+}
+
+QProgressBar
+{
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 0px;
+    text-align: center;
+    font: 20px "Arial";
+    color: white;
+}
+
+/* MessageBox
+ * ---------------------------------------------------------------------*/
+
+QMessageBox
+{
+    background-color: rgba(0, 0, 0, 200);
+    border: 1px solid rgb(0, 98, 255);
+}
+
+QMessageBox QLabel
+{
+    color: white;
+    font: 16px "Arial";
+}
+
+QMessageBox QPushButton
+{
+    background-color: transparent;
+    color: white;
+    font: 16px "Arial";
+}
+
+QMessageBox QPushButton::hover
+{
+    color: rgb(0, 98, 255);
+}
+
+QMessageBox QPushButton::pressed
+{
+    color: rgb(0, 98, 255);
+    font: 12px "Arial";
+}

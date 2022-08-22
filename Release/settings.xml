@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<settings>
+    <direction currentLevelName="Junior++" name="Programming">
+        <level name="Base" date="01.03.2020">
+            <skills>
+                <skill data="basics IDE: Arduino, Android Studio, Qt Creator, VS 2019, Eclipse" status="true"/>
+                <skill data="basics C, C++, Java, SQL, PHP" status="true"/>
+                <skill data="basics Linux OS and Bash scripts" status="true"/>
+                <skill data="basics CMake and QMake" status="true"/>
+            </skills>
+            <tasks>
+                <task data="mini-projects: Android Java (game RichAndPoor, Notes)" status="true"/>
+                <task data="mini-projects: Qt (Neural Network: Perceptron and CNN)" status="true"/>
+                <task data="professional retraining course C++ Junior Developer" status="true"/>
+                <task data="get a job Software Developer" status="true"/>
+            </tasks>
+        </level>
+        <level name="Junior" date="01.03.2021">
+            <skills>
+                <skill data="thread safe container" status="true"/>
+                <skill data="advanced coding: ternary operator, bitwise operations, pro switch operator, cross pointers" status="true"/>
+                <skill data="app architecture" status="true"/>
+                <skill data="communication protocols: RS232 (COM), Bluetooth (Classic and LE, TCP/IP, WebSocket)" status="true"/>
+            </skills>
+            <tasks>
+                <task data="mini-projects: Arduino (hydroponics, climate sensor, portable power supply)" status="true"/>
+                <task data="book read: Bjarne Stroustrup С++" status="true"/>
+                <task data="github account" status="true"/>
+                <task data="code style" status="true"/>
+            </tasks>
+        </level>
+        <level name="Junior+" date="">
+            <skills>
+                <skill data="multi-platform development: Windows 10, Linux (Astra, Ubuntu, Kali, Raspberry OS), macOS, iOS, Android" status="true"/>
+                <skill data="advanced coding: overloading, deep copy, deep delete, shared pointers" status="true"/>
+                <skill data="app auto update" status="true"/>
+                <skill data="multi-thread development" status="true"/>
+            </skills>
+            <tasks>
+                <task data="mini-projects: Raspberry + Arduino, ESP32" status="true"/>
+                <task data="mini-project: package transmission" status="true"/>
+                <task data="standart work algorythms: version control, document changes, task managment" status="true"/>
+                <task data="expand the app functionality on Java - Notes" status="true"/>
+            </tasks>
+        </level>
+        <level name="Junior++" date="">
+            <skills>
+                <skill data="memory leak detection" status="true"/>
+                <skill data="advanced coding: lambda expressions, allocators, asynchronous operations" status="false"/>
+                <skill data="KISS principle (Keep it Simple Stupid)" status="true"/>
+                <skill data="unit-tests" status="false"/>
+            </skills>
+            <tasks>
+                <task data="CI/CD (Continuous Integration / Continuous Delivery)" status="false"/>
+                <task data="book read: С++17 STL. Standart Template Library" status="false"/>
+                <task data="Microcontroller PWM, I2C, SPI" status="true"/>
+                <task data="mini-project: Qt C++ MyProgress" status="true"/>
+            </tasks>
+        </level>
+        <level name="Middle" date="">
+            <skills>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+            </skills>
+            <tasks>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+            </tasks>
+        </level>
+        <level name="Middle+" date="">
+            <skills>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+            </skills>
+            <tasks>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+            </tasks>
+        </level>
+        <level name="Middle++" date="">
+            <skills>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+            </skills>
+            <tasks>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+            </tasks>
+        </level>
+        <level name="Senior" date="">
+            <skills>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+            </skills>
+            <tasks>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+            </tasks>
+        </level>
+        <level name="Senior+" date="">
+            <skills>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+            </skills>
+            <tasks>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+            </tasks>
+        </level>
+        <level name="Senior++" date="">
+            <skills>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+                <skill data="" status="false"/>
+            </skills>
+            <tasks>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+                <task data="" status="false"/>
+            </tasks>
+        </level>
+    </direction>
+    <direction currentLevel="" name="Electronics"/>
+    <direction currentLevel="" name="Special Projects"/>
+</settings>
