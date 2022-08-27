@@ -24,7 +24,6 @@ app will automatically count experience.<br/>
 ********************************************************************************
 <br/>
 NOTE:<br/>
-This project is unfinished but enought to show the main idea and my skills<br/>
-for the date: 23.08.2022<br/>
+This project is unfinished but enought to show the main idea.<br/>
 Source code is in "MyProgress" folder.<br/>
 Compiled exe is in "Release" folder.<br/>
