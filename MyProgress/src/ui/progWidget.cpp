@@ -9,6 +9,7 @@ ProgWidget::ProgWidget(Settings* settings)
     setLayout(vLayout);
     _settings = settings;
     initProgWidget();
+    checkRequiremets(); //check requirements on app start
 
     //init timer for checking date for progressBar update
     timer = new QTimer(this);
